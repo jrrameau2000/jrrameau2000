@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Randolph
 - 👀 I’m interested in Finance and Supply Chain
-- 🌱 I’m currently learning Python, Pandas, SQL, Crypto and Machine Learning
+- 🌱 I’m currently learning Python, AWS, SQL, Crypto and Machine Learning
 - 📫 How to reach me: jrrameau2000@yahoo.com
 
 <!---
